@@ -1,6 +1,6 @@
 //<?php
 /**
- * markItUp!
+ * markItUp
  * 
  * Universal markup editor
  *
@@ -11,7 +11,6 @@
  * @internal	@events OnRichTextEditorRegister,OnRichTextEditorInit 
  * @internal    @installset base, sample
  * @internal    @installset base
- * @internal    @disabled 1
  *
  * yama 
  */
